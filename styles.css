@@ -133,41 +133,7 @@ section#products{
         font-size: 1.4;
         color: #666;
       }
-       .footer .box-container{
-        display: grid;
-        grid-template-columns: repeat(auto-fit,minmax(25rem,1fr));
-        gap:2rem;
-      }
-      .footer .box-container .box h3{
-        font-size: 2.2rem;
-        color:black;
-        padding: 1rem 0;
-      }
-      .footer .box-container .box .link i{
-        padding-right: 2.5rem;
-        color:pink
-      }
-      .footer .box-container .box .link:hover{
-        color: pink;
-      }
-      .footer .box-container .box .link:hover i{
-        padding-right: 2re;
-
-      }
-      .footer .box-container .box .share a{
-        margin-top: 2rem;
-      }
-      .footer .box-container .box .share a{
-
-        height: 4.5rem;
-        width: 4.5rem;
-        line-height: 4.5rem;
-        font-size: 1.7rem;
-        border-radius: 5rem;
-        background: #eee;
-        text-align: center;
-        color: black;
-        margin-right: 1.2rem;
-      }
+      
+      
       .
       
