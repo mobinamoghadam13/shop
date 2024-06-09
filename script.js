@@ -1,6 +1,8 @@
 function addToCart(){
     alert("محصول به سبد خرید اضافه شد! ");
 }
+var date=new date();
+docoment.write(date)
 var button = document.querySelectorAll("button");
 for ( var i=0; i < buttons.length; i++)
  {
