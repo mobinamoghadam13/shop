@@ -1,0 +1,173 @@
+styles.css
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serifS;
+
+}
+head {
+    background-color: aquamarine;
+    padding: 20px;
+    text-align: center;
+}
+nav {
+
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:aquamarine;
+
+}
+nav li a
+{
+    display: block;
+    color: rgb(0, 152, 152);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+section#products{
+    margin-top: 20px;
+}
+    .product{
+
+        float: left;
+        width: 200px;
+        padding: 20px;
+        text-align: center;
+    }
+    .product image {
+        width: 150px;
+        height: 150px;
+    }
+    footer{
+        background-color: antiquewhite;
+        padding: 20px;
+        text-align: center;}
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serifS;
+
+}
+head {
+    background-color: aquamarine;
+    padding: 20px;
+    text-align: center;
+}
+nav {
+
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:aquamarine;
+
+}
+nav li a
+{
+    display: block;
+    color: rgb(0, 152, 152);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+section#products{
+    margin-top: 20px;
+}
+    .product{
+
+        float: left;
+        width: 200px;
+        padding: 20px;
+        text-align: center;
+    }
+    .product image {
+        width: 150px;
+        height: 150px;
+    }
+    footer{
+        background-color: antiquewhite;
+        padding: 20px;
+        text-align: center;}
+       
+      .about us{
+        display: flex;
+        align-items: center;
+        flex-wrap: wrap;
+        gap: 2rem;
+      }
+      .about us.content{
+     flex: 1 1 42rem;
+      }
+      .about us .content .box{
+        padding: 3rem;
+        background-color: beige;
+      }
+      .about us .content .box {
+     font-size: 2.5rem;
+     color:black;
+      }
+      .about us .content .box p{
+        padding: 1rem 0;
+        line-height: 2;
+        color: #666;
+        font-size: 1.4rem;
+      }
+      .about us .content .icons-container{
+        display: flex;
+        flex-wrap: wrap;
+        align-items: flex-end;
+        gap: 2rem;
+        margin-top: 2rem;
+      }
+      .about us .content .icons-container .icons {
+        flex: 1 1 16rem;
+        background-color: #eee;
+        padding: 2rem;
+        text-align: center;
+      }
+      .about us .content .icons-container .icons i{
+        color:pink;
+        margin-bottom: 1rem;
+        font-size: 5rem;
+      }
+      .about us .content .icons-container .icons  p{
+        font-size: 1.4;
+        color: #666;
+      }
+       .footer .box-container{
+        display: grid;
+        grid-template-columns: repeat(auto-fit,minmax(25rem,1fr));
+        gap:2rem;
+      }
+      .footer .box-container .box h3{
+        font-size: 2.2rem;
+        color:black;
+        padding: 1rem 0;
+      }
+      .footer .box-container .box .link i{
+        padding-right: 2.5rem;
+        color:pink
+      }
+      .footer .box-container .box .link:hover{
+        color: pink;
+      }
+      .footer .box-container .box .link:hover i{
+        padding-right: 2re;
+
+      }
+      .footer .box-container .box .share a{
+        margin-top: 2rem;
+      }
+      .footer .box-container .box .share a{
+
+        height: 4.5rem;
+        width: 4.5rem;
+        line-height: 4.5rem;
+        font-size: 1.7rem;
+        border-radius: 5rem;
+        background: #eee;
+        text-align: center;
+        color: black;
+        margin-right: 1.2rem;
+      }
+      .
+      
